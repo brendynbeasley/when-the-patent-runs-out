@@ -1,0 +1,4 @@
+case,T_rerun,T_printed
+"d=1, B=0.05, sigma=4",12.21,12.2
+"d=1, B=0.05, sigma=9",8.67,8.7
+"d=1, B=0.05, sigma=20",5.66,5.6

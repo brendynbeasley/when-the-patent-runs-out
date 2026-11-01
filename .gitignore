@@ -1,0 +1,16 @@
+# CMS Part D historical releases (55 MB download, fetched by src/patent_expiry.py)
+data/raw/partd/
+data/raw/*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+*.key
+.env
+
+# OS
+.DS_Store
